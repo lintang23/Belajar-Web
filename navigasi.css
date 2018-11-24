@@ -1,0 +1,23 @@
+body, nav ul {
+	margin: 0;
+}
+nav	{
+	background-color: violet;
+	font-size: 24px;
+	font-family: arial;
+	color: blue;
+}
+nav ul li {
+	display: inline-block; 
+	padding: 50px
+}
+
+nav ul li {
+	margin: 0;
+}
+
+nav ul li:hover {
+	/*menambahkan warna di cursor */
+	color: purple;
+	background-color: darkviolet;
+}
